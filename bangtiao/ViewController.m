@@ -49,7 +49,10 @@
 
     self.view.backgroundColor = [UIColor whiteColor];
 
-    
+    NSLog(@"123456");
+    NSLog(@"123");
+    NSLog(@"456");
+    NSLog(@"asadfg");
 }
 
 -(void)stream:(NSStream *)aStream handleEvent:(NSStreamEvent)eventCode{
