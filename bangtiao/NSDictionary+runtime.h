@@ -10,4 +10,8 @@
 
 @interface NSDictionary (runtime)
 
+-(void)createDictionsss;
+
+-(void)createDictionssssa;
+
 @end

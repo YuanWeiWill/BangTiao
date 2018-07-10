@@ -31,6 +31,7 @@
 		DB2C7D1A20E369F400230E3D /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = DB2C7D0E20E369F400230E3D /* MASViewAttribute.m */; };
 		DB50D61720EDBC52008253A7 /* NSArray+runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = DB50D61620EDBC52008253A7 /* NSArray+runtime.m */; };
 		DB50D61A20EDC01E008253A7 /* NSDictionary+runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = DB50D61920EDC01E008253A7 /* NSDictionary+runtime.m */; };
+		DB8FA78120F46F4E0079EEC9 /* animationView.m in Sources */ = {isa = PBXBuildFile; fileRef = DB8FA78020F46F4E0079EEC9 /* animationView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +95,8 @@
 		DB50D61620EDBC52008253A7 /* NSArray+runtime.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSArray+runtime.m"; sourceTree = "<group>"; };
 		DB50D61820EDC01E008253A7 /* NSDictionary+runtime.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+runtime.h"; sourceTree = "<group>"; };
 		DB50D61920EDC01E008253A7 /* NSDictionary+runtime.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+runtime.m"; sourceTree = "<group>"; };
+		DB8FA77F20F46F4E0079EEC9 /* animationView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = animationView.h; sourceTree = "<group>"; };
+		DB8FA78020F46F4E0079EEC9 /* animationView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = animationView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +146,8 @@
 				DB50D61620EDBC52008253A7 /* NSArray+runtime.m */,
 				DB50D61820EDC01E008253A7 /* NSDictionary+runtime.h */,
 				DB50D61920EDC01E008253A7 /* NSDictionary+runtime.m */,
+				DB8FA77F20F46F4E0079EEC9 /* animationView.h */,
+				DB8FA78020F46F4E0079EEC9 /* animationView.m */,
 				DB2C7CCB20E366FA00230E3D /* Main.storyboard */,
 				DB2C7CCE20E366FB00230E3D /* Assets.xcassets */,
 				DB2C7CD020E366FB00230E3D /* LaunchScreen.storyboard */,
@@ -314,6 +319,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB2C7CCA20E366FA00230E3D /* ViewController.m in Sources */,
+				DB8FA78120F46F4E0079EEC9 /* animationView.m in Sources */,
 				DB2C7CD520E366FB00230E3D /* main.m in Sources */,
 				DB2C7D1520E369F400230E3D /* NSArray+MASAdditions.m in Sources */,
 				DB2C7D1120E369F400230E3D /* ViewController+MASAdditions.m in Sources */,

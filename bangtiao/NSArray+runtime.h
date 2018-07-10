@@ -10,4 +10,8 @@
 
 @interface NSArray (runtime)
 
+-(void)createNameArr;
+
+-(void)createNameArrs;
+
 @end
